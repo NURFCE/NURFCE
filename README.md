@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NURFCE
 - 👀 I’m interested in Network progression and Gracie JiuJitsu.
 - 🌱 I’m currently learning Python, Java and the world of Itential
-- 📫 How to reach me via email patrick.gaul@lumen.com
+- 📫 How to reach me via email pgaul72@gmail.com
 
 <!---
 NURFCE/NURFCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
